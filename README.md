@@ -30,7 +30,7 @@ Rating: ⭐️⭐️⭐️⭐️⭐️
 
 Worth Reading: 👍🏻
 
-#### 3. [Let Your Life Speak - Parker J. Palmer](http://letyourlifespeak.com)
+#### 6. [Let Your Life Speak - Parker J. Palmer](http://letyourlifespeak.com)
 
 Rating: ⭐️⭐️⭐️
 
