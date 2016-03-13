@@ -4,13 +4,13 @@
 
 Rating: ⭐️⭐️⭐️⭐️
 
-Worth Reading: 👍🏼
+Worth Reading: 👍🏻
 
 #### 2. [Making Things Clear - David Cain](http://www.raptitude.com/gravity-landing/you-are-here-a-modern-persons-guide-to-living-in-the-present/)
 
 Rating: ⭐️⭐️⭐️⭐️
 
-Worth Reading: 👍🏼
+Worth Reading: 👍🏻
 
 #### 3. [The Miracle Morning - Hal Elrod](http://halelrod.com/books/)
 
