@@ -16,31 +16,31 @@ Worth Reading: 👍🏼
 
 Rating: ⭐️⭐️⭐️
 
-Worth Reading: 👍🏼
+Worth Reading: 👍🏻
 
 #### 4. [True Refuge - Tara Brach](https://www.tarabrach.com/books-cds/)
 
 Rating: ⭐️⭐️⭐️⭐️
 
-Worth Reading: 👍🏼
+Worth Reading: 👍🏻
 
 #### 5. [The Life-Changing Magic of Tidying Up - Marie Kondo](http://www.tidyingup.com)
 
 Rating: ⭐️⭐️⭐️⭐️⭐️
 
-Worth Reading: 👍🏼
+Worth Reading: 👍🏻
 
 #### 3. [Let Your Life Speak - Parker J. Palmer](http://letyourlifespeak.com)
 
 Rating: ⭐️⭐️⭐️
 
-Worth Reading: 👍🏼
+Worth Reading: 👍🏻
 
 #### 7. [Originals - Adam Grant](http://www.adamgrant.net/#!originals/c1ckh)
 
 Rating: ⭐️⭐️⭐️
 
-Worth Reading: 👍🏼
+Worth Reading: 👍🏻
 
 # Currently Reading:
 
