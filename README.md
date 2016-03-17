@@ -52,4 +52,4 @@ Worth Reading: 👍🏻
 
 # More information
 
-This list of books is linked to by my [Annual Reading List](https://github.com/davidskeck/Annual-Reading-List), which is a selection of the what I think are the ten most important works to review each year.
+This list of books is linked to by my [Annual Reading List](https://github.com/davidskeck/Annual-Reading-List), which is a selection of what I think are the ten most important works to review each year.
