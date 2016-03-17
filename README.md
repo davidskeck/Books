@@ -1,3 +1,11 @@
+# Currently Reading:
+
+#### [The Personal MBA - Josh Kaufman](https://personalmba.com)
+
+# On Deck:
+
+#### [The Happiness of Pursuit - Chris Guillebeau](http://chrisguillebeau.com/books/)
+
 # 2016 Books
 
 #### 1. [You Are Here - David Cain](http://www.raptitude.com/gravity-landing/you-are-here-a-modern-persons-guide-to-living-in-the-present/)
@@ -41,14 +49,6 @@ Worth Reading: 👍🏻
 Rating: ⭐️⭐️⭐️
 
 Worth Reading: 👍🏻
-
-# Currently Reading:
-
-#### 8. [The Personal MBA - Josh Kaufman](https://personalmba.com)
-
-# On Deck:
-
-#### 9. [The Happiness of Pursuit - Chris Guillebeau](http://chrisguillebeau.com/books/)
 
 # More information
 
