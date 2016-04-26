@@ -56,7 +56,7 @@ Rating: ⭐️⭐️⭐️⭐️⭐️
 
 Worth Reading: 👍🏻
 
-Comment: This one is absolutely stuffed with incredible advice and beautifully explained ideas. I'm holding on to this one to read again.
+Comment: Stuffed with incredible advice and beautifully explained ideas. I'm holding on to this one to read again.
 
 # More information
 
