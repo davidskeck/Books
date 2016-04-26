@@ -1,10 +1,10 @@
 # Currently Reading:
 
-#### [The Personal MBA - Josh Kaufman](https://personalmba.com)
+#### [The Happiness of Pursuit - Chris Guillebeau](http://chrisguillebeau.com/books/)
 
 # On Deck:
 
-#### [The Happiness of Pursuit - Chris Guillebeau](http://chrisguillebeau.com/books/)
+#### [Small Time Operator - Bernard B. Kamoroff](http://bellsprings.com/STO.php)
 
 # 2016 Books
 
@@ -49,6 +49,14 @@ Worth Reading: 👍🏻
 Rating: ⭐️⭐️⭐️
 
 Worth Reading: 👍🏻
+
+#### 8. [The Personal MBA - Josh Kaufman](https://personalmba.com)
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Worth Reading: 👍🏻
+
+Comment: This one is a life-changer. Wow. Stuffed with incredible advice and beautifully explained ideas. I'm holding on to this one to read again.
 
 # More information
 
