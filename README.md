@@ -1,10 +1,10 @@
 # Currently Reading:
 
-#### [The Happiness of Pursuit - Chris Guillebeau](http://chrisguillebeau.com/books/)
+#### [Small Time Operator - Bernard B. Kamoroff](http://bellsprings.com/STO.php)
 
 # On Deck:
 
-#### [Small Time Operator - Bernard B. Kamoroff](http://bellsprings.com/STO.php)
+#### [Code Complete 2 - Steve McConnell](http://cc2e.com)
 
 # 2016 Books
 
@@ -57,6 +57,14 @@ Rating: ⭐️⭐️⭐️⭐️⭐️
 Worth Reading: 👍🏻
 
 Comment: Stuffed with incredible advice and beautifully explained ideas. I'm holding on to this one to read again.
+
+#### 9. [The Happiness of Pursuit - Chris Guillebeau](http://chrisguillebeau.com/books/)
+
+Rating: ⭐️⭐️⭐️
+
+Worth Reading: 👍🏻
+
+Comment: Pretty surface level book. Mostly just stories about other people's travels. Skip this one unless that really interests you.
 
 # More information
 
