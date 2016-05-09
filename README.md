@@ -76,7 +76,7 @@ Comment: Absolutely stuffed with incredible advice and beautifully explained ide
 
 #### 9. [The Happiness of Pursuit - Chris Guillebeau](http://chrisguillebeau.com/books/)
 
-Rating: ⭐️⭐️⭐️
+Rating: ⭐️⭐️
 
 Worth Reading: 👎🏻
 
