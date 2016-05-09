@@ -78,7 +78,7 @@ Comment: Absolutely stuffed with incredible advice and beautifully explained ide
 
 Rating: ⭐️⭐️⭐️
 
-Worth Reading: 👋🏻
+Worth Reading: 👎🏻
 
 Comment: Very surface level book. Mostly just stories about other people's travels. Skip this one unless that topic really interests you.
 
