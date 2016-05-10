@@ -8,7 +8,7 @@
 
 #### [Seven Brief Lessons on Physics - Carlo Rovelli](http://www.sevenbrieflessons.com/)
 
-# 2016 Books
+# 2016
 
 #### 1. [You Are Here - David Cain](http://www.raptitude.com/gravity-landing/you-are-here-a-modern-persons-guide-to-living-in-the-present/)
 
