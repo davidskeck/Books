@@ -1,10 +1,10 @@
 # Currently Reading:
 
-#### [Small Time Operator - Bernard B. Kamoroff](http://bellsprings.com/STO.php)
-
-# On Deck:
+#### [Born For This - Chris Guillebeau](http://chrisguillebeau.com/books/)
 
 #### [Code Complete 2 - Steve McConnell](http://cc2e.com)
+
+# On Deck:
 
 #### [Seven Brief Lessons on Physics - Carlo Rovelli](http://www.sevenbrieflessons.com/)
 
@@ -81,6 +81,14 @@ Rating: ⭐️⭐️
 Worth Reading: 👎🏻
 
 Comment: Very surface level book. Mostly just stories about other people's travels. Skip this one unless that topic really interests you.
+
+#### 10. [Small Time Operator - Bernard B. Kamoroff](http://bellsprings.com/STO.php)
+
+Rating: ⭐️⭐️⭐️⭐️⭐️
+
+Worth Reading: 👍🏻
+
+Comment: All the practical rubber-meets-the-road information needed to start a small business of any kind with an xxcellent conversational writing style.
 
 # More information
 
