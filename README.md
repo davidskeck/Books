@@ -88,7 +88,7 @@ Rating: ⭐️⭐️⭐️⭐️⭐️
 
 Worth Reading: 👍🏻
 
-Comment: All the practical rubber-meets-the-road information needed to start a small business of any kind with an xxcellent conversational writing style.
+Comment: All the practical rubber-meets-the-road information needed to start a small business of any kind with an excellent conversational writing style.
 
 # More information
 
