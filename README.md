@@ -1,12 +1,12 @@
 # Currently Reading:
 
-#### [Born For This - Chris Guillebeau](http://chrisguillebeau.com/books/)
-
 #### [Code Complete 2 - Steve McConnell](http://cc2e.com)
 
 # On Deck:
 
 #### [Seven Brief Lessons on Physics - Carlo Rovelli](http://www.sevenbrieflessons.com/)
+
+#### [The Soul of A New Machine Paperback - Tracy Kidder](http://www.tracykidder.com/the-soul-of-a-new-machine.html)
 
 # 2016
 
@@ -89,6 +89,14 @@ Rating: ⭐️⭐️⭐️⭐️⭐️
 Worth Reading: 👍🏻
 
 Comment: All the practical rubber-meets-the-road information needed to start a small business of any kind with an excellent conversational writing style.
+
+#### 11. [Born For This - Chris Guillebeau](http://chrisguillebeau.com/books/)
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Worth Reading: 👍🏻
+
+Comment: This book really did help me discover what kind of work is right for me. It provided the understanding that finding the job that that compliments your interests and skills is a journey, and you can alter the course of that journey at any time. I would have liked a little more analysis instead of other people's stories, but this is still a great book.
 
 # More information
 
