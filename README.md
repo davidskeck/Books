@@ -1,7 +1,8 @@
 # Currently Reading:
 
-#### [Code Complete 2 - Steve McConnell <img src="book-covers/Code Complete 2 - Steve McConnell.jpg"/>
-](http://cc2e.com)
+#### [Code Complete 2 - Steve McConnell](http://cc2e.com)
+
+<img src="book-covers/Code Complete 2 - Steve McConnell.jpg"/>
 
 #### [The Soul of A New Machine - Tracy Kidder](http://www.tracykidder.com/the-soul-of-a-new-machine.html)
 
