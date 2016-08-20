@@ -1,8 +1,7 @@
 # Currently Reading:
 
-#### [Code Complete 2 - Steve McConnell](http://cc2e.com)
-
-<img src="book-covers/Code Complete 2 - Steve McConnell.jpg"/>
+#### [Code Complete 2 - Steve McConnell <img src="book-covers/Code Complete 2 - Steve McConnell.jpg"/>
+](http://cc2e.com)
 
 #### [The Soul of A New Machine - Tracy Kidder](http://www.tracykidder.com/the-soul-of-a-new-machine.html)
 
@@ -114,7 +113,7 @@ Worth Reading: 👎🏻
 
 Comment: Very surface level book. Mostly just stories about other people's travels. Skip this one unless that topic really interests you.
 
-#### 10. [Small Time Operator - Bernard B. Kamoroff](https://www.amazon.com/Small-Time-Operator-Business-Yourbooks/dp/158979799X/ref=pd_sim_sbs_14_1?ie=UTF8&psc=1&refRID=HZG16S89D1YJFBASG29Z)* Note: Author's website is down. Non-affiliate Amazon link.
+#### 10. [Small Time Operator - Bernard B. Kamoroff](https://www.amazon.com/Small-Time-Operator-Business-Yourbooks/dp/158979799X/ref=pd_sim_sbs_14_1?ie=UTF8&psc=1&refRID=HZG16S89D1YJFBASG29Z) Note: Author's website is down. Non-affiliate Amazon link.
 
 <img src="book-covers/Small Time Operator - Bernard Kamoroff.jpg"/>
 
