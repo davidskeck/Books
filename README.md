@@ -2,11 +2,15 @@
 
 #### [Code Complete 2 - Steve McConnell](http://cc2e.com)
 
+#### [The Soul of A New Machine Paperback - Tracy Kidder](http://www.tracykidder.com/the-soul-of-a-new-machine.html)
+
 # On Deck:
 
-#### [Seven Brief Lessons on Physics - Carlo Rovelli](http://www.sevenbrieflessons.com/)
+#### [CS Detective - Jeremy Kubica](https://www.nostarch.com/searchtale)
 
-#### [The Soul of A New Machine Paperback - Tracy Kidder](http://www.tracykidder.com/the-soul-of-a-new-machine.html)
+#### [Python Programming - John Zelle](http://mcsp.wartburg.edu/zelle/python/)
+
+#### [QED - Richard Feynman](http://press.princeton.edu/titles/8169.html)
 
 # 2016
 
@@ -97,6 +101,14 @@ Rating: ⭐️⭐️⭐️⭐️
 Worth Reading: 👍🏻
 
 Comment: This book really did help me discover what kind of work is right for me. It provided the understanding that finding the job that that compliments your interests and skills is a journey, and you can alter the course of that journey at any time. I would have liked a little more analysis instead of other people's stories, but this is still a great book.
+
+#### 12. [Seven Brief Lessons on Physics - Carlo Rovelli](http://www.sevenbrieflessons.com/)
+
+Rating: ⭐️⭐️⭐️⭐️
+
+Worth Reading: 👍🏻
+
+Comment: Very beautiful discussion of physics and our place in the world. I enjoyed this incredibly brief (88 pages!) book. Though, there were a few parts where the language felt unnecessarily complicated.
 
 # More information
 
