@@ -22,6 +22,10 @@
 
 <img src="book-covers/QED - Richard Feynman.jpg"/>
 
+#### [The Nature of Code - Daniel Shiffman](http://natureofcode.com)
+
+<img src="book-covers/The Nature of Code - Daniel Shiffman.jpg"/>
+
 # 2016
 
 #### 1. [You Are Here - David Cain](http://www.raptitude.com/gravity-landing/you-are-here-a-modern-persons-guide-to-living-in-the-present/)
